@@ -1,0 +1,8 @@
+name: "Web Rodríguez-Corella"
+navbar:
+  title: "Furnariidae"
+  left:
+    - text: "Distribución geografica"
+      href: distribucion.html
+    - text: "Trepatroncos rojizo" 
+      href: Trepatroncos.html
